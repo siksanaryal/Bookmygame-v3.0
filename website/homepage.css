@@ -76,6 +76,9 @@ span{
   padding: .5rem;
   width: 20rem;
   margin-left: 5rem;
+  background-color: transparent;
+  border: 1px solid black;
+  border-radius: 10px;
 }
 .nav-image{
   height: 44px;
